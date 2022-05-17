@@ -3,9 +3,11 @@
 **Git Tasks:**
 
 - Fork and clone this Github repository.
+- Create a new branch and set its name to your “Name”.
 - Create a folder named "Name" (or Handle) in which you have all the
 contents of whatever submission you wanna make (solutions to
-question 1 and 2)
+question 1 and 2).
+- Merge your branch with the master branch.
 - Pull origin & add files, commit and push to fork.
 - Create pull request on main repo
 - Create Issue
