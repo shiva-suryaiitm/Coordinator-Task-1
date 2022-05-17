@@ -24,7 +24,7 @@ There’s 2 questions in the task to help you get comfortable with python, do tr
 consist of random numbers between [0,1) and 𝑦 should contain 0𝑠 and
 1𝑠, for example, 𝑦=[0,1,1,0,1,0,0,1,...,1]. Compute the given expression:
     
-    ![loss](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11165546-89e0-4931-9828-d5fb91d5d5d7/Untitled.png)
+    ![loss](https://github.com/aquantumreality/Coordinator-Task-1/blob/main/cross-entropy.png)
     
     Where n = 100, is the total number of elements in y and 𝑦̂
     
