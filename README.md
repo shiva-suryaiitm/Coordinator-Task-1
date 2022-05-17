@@ -39,7 +39,7 @@ consist of random numbers between [0,1) and 𝑦 should contain 0𝑠 and
 numbers) from a given array whose sum equals a specific target
 number.
 Note: There will be multiple solutions, so create a dictionary where the
-keys represent just [S.No](http://S.No) (1,2,3,4.....) and the value corresponding to
+keys represent just [S.No] (1,2,3,4.....) and the value corresponding to
 the key represents the indices of the two numbers
     
     For example:
